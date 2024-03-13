@@ -1,0 +1,13 @@
+run 
+quasar: npx quasar dev 
+vue: npm run dev
+
+
+export github
+git init
+git add . (.= exportar todos os files)
+git commit -m "(comment)"
+git remote ....
+git push -u origin (master)
+
+(git status)
